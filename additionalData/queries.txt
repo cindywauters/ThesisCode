@@ -1,0 +1,18 @@
+following queries were used in order to fetch more then 1000 issues:
+stackoverflow.com/questions/+type:issue+language:python+in:comments+is:open+comments:1
+stackoverflow.com/questions/+type:issue+language:python+in:comments+is:open+comments:2..3
+stackoverflow.com/questions/+type:issue+language:python+in:comments+is:open+comments:4..5
+stackoverflow.com/questions/+type:issue+language:python+in:comments+is:open+comments:6..10
+stackoverflow.com/questions/+type:issue+language:python+in:comments+is:open+comments:11..20
+stackoverflow.com/questions/+type:issue+language:python+in:comments+is:open+comments:>21
+stackoverflow.com/questions/+type:issue+language:python+in:comments+is:closed+comments:1
+stackoverflow.com/questions/+type:issue+language:python+in:comments+is:closed+comments:2
+stackoverflow.com/questions/+type:issue+language:python+in:comments+is:closed+comments:3
+stackoverflow.com/questions/+type:issue+language:python+in:comments+is:closed+comments:4..5
+stackoverflow.com/questions/+type:issue+language:python+in:comments+is:closed+comments:6
+stackoverflow.com/questions/+type:issue+language:python+in:comments+is:closed+comments:7
+stackoverflow.com/questions/+type:issue+language:python+in:comments+is:closed+comments:8..10
+stackoverflow.com/questions/+type:issue+language:python+in:comments+is:closed+comments:11..13
+stackoverflow.com/questions/+type:issue+language:python+in:comments+is:closed+comments:14..17
+stackoverflow.com/questions/+type:issue+language:python+in:comments+is:closed+comments:18..24
+stackoverflow.com/questions/+type:issue+language:python+in:comments+is:closed+comments:>25
